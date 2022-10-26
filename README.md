@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 👯 I’m looking to collaborate on **Back-End projects**
 - 🤔 I’m looking for help with **learning Data Structures**
-- 💬 Ask me about **Reactjs, Nodejs**
+- 💬 Ask me about **, Nodejs**
 - 📫 How to reach me
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Always a catch**

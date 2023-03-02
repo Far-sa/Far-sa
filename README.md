@@ -20,6 +20,7 @@
 <p>
   
   <img alt="Nestjs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Nestjs&color=000000&logo=Nestjs&logoColor=FFFFFF&label=" />
+  <img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=000000&logo=Django&logoColor=FFFFFF&label=" />
     <img alt="Koa" src="https://img.shields.io/static/v1?style=for-the-badge&message=Koa&color=33333D&logo=Koa&logoColor=FFFFFF&label=" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" />
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />

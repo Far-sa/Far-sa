@@ -43,7 +43,8 @@
 
 ## Connect with me
 
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />]()
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />]
+(https://www.linkedin.com/in/far-sa/)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:f.saddeghi@gmail.com)
 
 

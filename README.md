@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m currently working **brushing up my skills**
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Back-end Development**
 - 👯 I’m looking to collaborate on **Back-End projects**
 - 🤔 I’m looking for help with **learning Data Structures**
-- 💬 Ask me about **, Nodejs**
+- 💬 Ask me about **, Django**
 - 📫 How to reach me
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Always a catch**

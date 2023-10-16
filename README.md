@@ -37,6 +37,8 @@
       <img alt="PstgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" />
     <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black" />
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-B02727?style=flat-square&logo=redis&logoColor=white" />
+    <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" /> -->
+
 </p>
 
 

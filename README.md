@@ -17,8 +17,7 @@
 
 ## Expertise
 <p>
-<!--   <img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=000000&logo=Django&logoColor=FFFFFF&label=" />
-<img alt="Echo" src="https://img.shields.io/static/v1?style=for-the-badge&message=Echo&color=33333D&logo=Echo&logoColor=FFFFFF&label=" />
+<img alt="Echo" src="https://img.shields.io/static/v1?style=for-the-badge&message=Echo&color=000000&logo=Echo&logoColor=FFFFFF&label=" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" /> -->
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=golang&logoColor=white" />
@@ -37,7 +36,6 @@
       <img alt="PstgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" />
     <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black" />
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-B02727?style=flat-square&logo=redis&logoColor=white" />
-    <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" />
 
 </p>
 

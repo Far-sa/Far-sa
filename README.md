@@ -18,7 +18,7 @@
 ## Expertise
 <p>
 <!--   <img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=000000&logo=Django&logoColor=FFFFFF&label=" />
-<!--     <img alt="FastApi" src="https://img.shields.io/static/v1?style=for-the-badge&message=FastApi&color=33333D&logo=FastApi&logoColor=FFFFFF&label=" /> -->
+<img alt="Echo" src="https://img.shields.io/static/v1?style=for-the-badge&message=Echo&color=33333D&logo=Echo&logoColor=FFFFFF&label=" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" /> -->
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=golang&logoColor=white" />

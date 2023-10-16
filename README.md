@@ -24,7 +24,7 @@
   <img alt="Fiber" src="https://img.shields.io/static/v1?style=for-the-badge&message=Fiber&color=33333D&logo=Fiber&logoColor=FFFFFF&label=" />
 <!--   <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
 <!--   <img alt="Kafka" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kafka&color=FF6600&logo=Kafka&logoColor=FFFFFF&label=" /> -->
-  <img alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=flat-square&logo=git&logoColor=white&color=blue" /> -->
+  <img alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=flat-square&logo=git&logoColor=white&color=blue" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <!--   <img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />

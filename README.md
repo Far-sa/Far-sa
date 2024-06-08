@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working **brushing up my skills**
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **Software Engineering**
 - 👯 I’m looking to collaborate on **Back-End projects**
 - 💬 Ask me about **, Back-end Techs**
 - 📫 How to reach me
